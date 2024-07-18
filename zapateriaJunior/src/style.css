@@ -1,0 +1,50 @@
+
+body, html {
+    background-color: #1a2b3c; /* Un azul gris oscuro */
+    color: white;
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+button{
+    padding: 15px;
+    font-size: 1.3ñrem;
+    margin-right: 5px;
+}
+
+.headerCard {
+    text-align: center; /* Para centrar el texto horizontalmente */
+}
+
+.cardMain {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 400px;
+    margin: 0 auto;
+}
+
+
+.bodyCard {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 400px;
+    margin: 0 auto;
+}
+
+.row {
+    margin-bottom: 15px;
+}
+
+.row label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.row input {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
